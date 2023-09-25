@@ -1,0 +1,40 @@
+body {
+    background-image: rgb(255, 251, 235);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar {
+    background-color: rgba(89, 91, 95, 0.06);
+}
+
+.menu {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#carouselExampleDark {
+    width: 100%;
+    background-color: rgba(82, 82, 83, 0.397); 
+}
+
+#carouselExampleDark img{
+    height: 800px;
+}
+
+.navbar-brand {
+    text-shadow: 2px 1px 10px rgb(151, 151, 151);
+    font-size: 24pt;
+}
+
+.dropdown ul {
+    background-color: rgba(246, 245, 243, 0.918);
+}
+
+.dropdown ul li a:hover{
+    background-color: rgb(244, 132, 132);
+}
+
+.collapse ul li a {
+    font-size: 15pt;
+}
